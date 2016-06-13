@@ -39,3 +39,4 @@ functionArray = [addTwo(2), subtractOne(5), multiplyByThree(3)]
 for(var i = 0; i < functionArray.length; i++) {
   console.log(functionArray[i]);
 }
+// call a function, use paranthesis
