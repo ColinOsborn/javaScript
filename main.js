@@ -40,3 +40,4 @@ for(var i = 0; i < functionArray.length; i++) {
   console.log(functionArray[i]);
 }
 // call a function, use paranthesis
+// adding usesless text
